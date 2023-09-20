@@ -1,0 +1,26 @@
+input{
+    display: block;
+    width: 200px;
+    height: 40px;
+}
+body{
+    background-color: lightblue;
+}
+.checkbox{
+    width: auto;
+    display: inline;
+    height: auto;
+}
+.submit{
+    background-color: blue;
+    color: white;
+}
+h1{
+    color: red;
+}
+h2{
+    color: orange;
+}
+a{
+    text-decoration: none;
+}
